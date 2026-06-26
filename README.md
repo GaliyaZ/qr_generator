@@ -7,6 +7,5 @@
 **.venv\Scripts\activate** - активация окружения
 
 **pip freeze > requirements.txt** - создание файла со списком пакетов
-[pypi.org](https://pypi.org/)
 
 **python main.py** - запуск приложения
